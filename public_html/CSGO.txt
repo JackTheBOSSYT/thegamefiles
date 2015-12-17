@@ -1,0 +1,112 @@
+Counter-Strike: Global Offensive
+From Wikipedia, the free encyclopedia
+Counter-Strike: Global Offensive
+Counter-Strike Global Offensive.jpg
+Developer(s)	Hidden Path Entertainment
+Valve Corporation
+Publisher(s)	Valve Corporation
+Composer(s)	Mike Morasky
+Series	Counter-Strike
+Engine	Source
+Platform(s)	Microsoft Windows
+OS X
+Linux
+Xbox 360
+PlayStation 3
+Release date(s)	
+WW August 21, 2012
+Genre(s)	First-person shooter
+Mode(s)	Multiplayer
+Counter-Strike: Global Offensive (CS:GO) is an online first-person shooter developed by Hidden Path Entertainment and Valve Corporation. It is the fourth game in the main Counter-Strike franchise. Counter-Strike: Global Offensive was released on August 21, 2012, and made available for Microsoft Windows and OS X on Steam, Xbox 360, and a United States-only version on PlayStation 3.[1] The Linux version was released in September 2014.[2] It features classic content, such as revamped versions of classic maps, as well as brand new maps, characters and game modes. Cross-platform multiplayer was planned between Windows, OS X, Linux, and PlayStation 3 players,[3] but was ultimately limited to Windows, OS X, and Linux because of the differences in update-frequency between systems.[4] The PlayStation 3 version offers three input control methods, which include using either the DualShock 3 controller, PlayStation Move or USB keyboard/mouse.
+
+Contents  [hide] 
+1	Gameplay
+1.1	Game modes
+1.2	Online play
+2	Development
+2.1	Post-release
+3	Tournaments
+3.1	Majors
+4	Reception
+5	References
+6	External links
+Gameplay
+An in-game screenshot in which a member of the Terrorist team is poised while holding an assault rifle with a custom skin. A caption in the bottom-left reads "FASICO John killed you with their knife".
+In-game screenshot of a player on the Terrorist team holding an M4A1-S with the 'Atomic Alloy' skin applied.
+Like the previous games in the series, Global Offensive is an objective-based multiplayer first-person shooter. Each player joins either the Terrorist or Counter-Terrorist team and attempts to complete objectives or eliminate the enemy team. The game operates in short rounds that end when all players on one side are dead or a team's objective is completed. For most game modes, once a player dies, they must wait until the round ends to respawn.
+
+Players purchase weapons and equipment at the beginning of every round with money awarded based on their performance. Completing objectives or killing enemies earns the player money while negative actions, like killing a teammate or hostage, takes money away from the player. In addition, when a round ends all players receive some amount of money, with players on the winning team receiving substantially more.[5]
+
+Counter-Strike: Global Offensive adds new weapons and equipment not seen in previous installments, most notably the firebomb for each side (referred to as a Molotov on the terrorist side and as an Incendiary Grenade on the Counter-Terrorist side). These temporarily cover a small area in fire, dealing damage to anyone passing through.[6][7]
+
+Cosmetic items, such as weapon finishes, were added post-release.[8]
+
+Game modes
+Currently, Global Offensive features five game modes for online play:
+
+Classic Casual and Competitive: Counter-Strike‍ '​s most played game mode, both involving Bomb Scenario and Hostage Scenario missions.[9] At the start of each round, players can purchase weapons and gear with money earned from various actions, from assisting on kills to completing objectives. Regardless of mission type, a round ends when one team completes an objective, eliminates the other team, or lets the timer run out. If the timer runs out before one of these objectives are completed, the team which did not need to complete an objective wins.
+Bomb Scenario: the Terrorists must plant a C4 explosive at one of two designated bombsites and protect it until its countdown finishes and detonates; the Counter-Terrorists must prevent the bomb from exploding, either ensuring that the terrorist team does not plant it or defusing it once it is planted. If the team does defuse it, the CT team will still win regardless how many enemy team members are still alive. [10]
+Hostage Scenario: the Counter-Terrorists must rescue hostages from the Terrorists, and bring them to an extraction point; the Terrorists must prevent the hostages from escaping. If a Terrorist or Counter-Terrorist attempts to kill hostage, they will suffer a heavy cash penalty. An update later changed how Counter-Terrorists rescue hostages: instead of leading them around,[11] players must carry one hostage at a time to the extraction point.[12][13]
+Arms Race: a deathmatch-based mode where each player is rewarded for each kill with a new weapon. The first player to get a kill with the golden knife, the final weapon on the list, wins the game.[14][15]
+Demolition: a round-based mode that removes weapon and equipment purchasing, instead rewarding players who manage at least one kill by giving the next weapon in a predetermined set of weapons. After a second kill with that weapon the players are also rewarded a grenade along with their new weapon for the next round. This is something similar to the bomb scenario mission, which also requires one of the team to detonate the bomb site. But unlike the casual ones, these have only one bomb site. [16][17]
+Deathmatch (added on November 12, 2012): a mode consisting of 10-minute matches.[18] Players must gain the highest possible score by earning kills with different weapons or desired weapons. The number of points from a kill depends on the weapon. Players may also take advantage of bonus timers for different weapons, or using knife to score extra points. Like in Arms Race, players automatically respawn after being killed, but also when they choose to respawn with bonus weapons.[18][19]
+Global Offensive also offers two offline modes: Offline with Bots, which offers the same game modes with AI-controlled bots; and a Weapons Course, a single player map serving as a tutorial and a training mode.[20]
+
+Online play
+Global Offensive supports matchmaking and leaderboards for all online game modes, provided by Steam.[21] The provided online service offers the ability to filter by game modes, maps and a built-in Steam friend system. Valve also employs Valve Anti-Cheat, which can automatically remove and ban players from the Valve online network. To match players of similar skill levels for an enjoyable experience, the game uses a heavily modified version of Elo rating system.[3] The PC version of Global Offensive also supports private dedicated servers that the player may connect to through the community server menu in-game. These servers may be heavily modified and can be completely different from the base game.[22]
+
+Development
+Global Offensive began as a port of Counter-Strike: Source to Xbox Live Arcade by Hidden Path Entertainment. During the development, Valve saw the opportunity to turn the port into a full game and expand on Counter-Strike‍ '​s gameplay. Global Offensive began development in March 2010, and was revealed to the public on August 12, 2011.[23][24]
+
+The closed beta started on November 30, 2011, and was initially restricted to around ten thousand people who received a key at events Valve attended to showcase Global Offensive. After issues such as client and server stability were addressed the beta was opened up to progressively more and more people, until the beta became open for anybody to join and play.[25] Before the public beta, Valve invited professional Counter-Strike and Counter-Strike: Source players to play-test the game and give feedback.[9]
+
+At E3 2012, Valve announced that Global Offensive would be released on August 21, 2012, with an open beta starting roughly a month before that.[26][27]
+
+Post-release
+Global Offensive initially launched with four game modes: Classic Casual, Competitive, Demolition, and Arms Race, and several official maps for each of the game modes. The Deathmatch gamemode, as well as more official maps, were added post-release. The mechanics for the Hostage Scenario were revamped post-release. New weapons, such as the CZ-75 Auto, were added post release. The statistics for the weapons and the layout of the maps were modified post-release for competitive balance.[18]
+
+Cosmetic items, such as weapon finishes, were added on August 13, 2013, in a major update named the "Arms Deal" update. Most cosmetic items are received via game-end drops and opening virtual crates with keys that can be bought through microtransactions, similar to the item drop systems in Team Fortress 2 and Dota 2. These items can also be traded between players through the Steam trading system or the Steam Community Market.[8]
+
+Valve enabled Steam Workshop support for Global Offensive, allowing users to upload user-created content, such as maps, weapon finishes, and custom gameplay scenarios. In previous versions of Counter-Strike, players had to download maps through third party sites, or while connecting to the server.
+
+Valve supports community map-makers in the form of "operations", which act like expansion packs and require players purchase "operation passes" to play community made maps on Valve's official servers. However from Operation Breakout onwards, players weren't required to buy a pass to access said maps. Each operation only lasts a certain amount of time before a new operation is released, requiring players to buy a new pass.[28][29] A portion of the income generated through pass sales is given to the creators of the maps.[30]
+
+Popular user-created weapon finishes have the chance to be added in the game as official cosmetic items in updates, where they can be received in virtual crates. A portion of the income generated through the sale of keys in order to receive these finishes is given to the creators of the weapon finishes.[8][31]
+
+An update in October 2014, added "music kits", which replace the default in-game music with music from nine soundtrack artists commissioned by Valve. If a player with a music kit equipped becomes the round's most valuable player, their music will play for others at the end of the round. There is a feature to allow kits to be borrowed, and kits can be sold and exchanged through the Community Market.[32]
+
+Tournaments
+In Counter-Strike: Global Offensive, in addition to normal tournament circuits hosted by third-party organisations, Valve organizes or co-sponsors a series of events itself, referred to as 'majors'. These events are special in that they have large prize pools, which are crowdfunded by the Counter-Strike: Global Offensive community via in-game keys bought to open in-game cases,[33][34] and special in-game cosmetics - usually in the form of stickers of the qualified teams logo, and signatures of qualified players[35] that can be applied to guns or used to predict the results of the tournament - are introduced into the game, and are purchasable from Valve during the duration of the tournament.[36][37][38]
+
+As of October 27, 2015, Counter-Strike: Global Offensive tournaments have awarded over $7.5 million in prize money, with nearly $2 million won by Swedish players.[39][dubious – discuss] The top 5 countries in earnings are, in order, Sweden, France, Poland, Denmark, and The United States.
+
+On September 23, 2015 it was announced that WME/IMG and Turner Broadcasting were creating a televised Counter-Strike: Global Offensive esports league to be broadcast on US cable television network TBS in 2016.[40]
+
+Majors
+Major tournaments are defined as those tournaments that are sponsored by Valve. Every Major so far has had a prize pool of $250,000. Each major has seen increased attendance, including over ten thousand viewers live in stadiums and millions watching on internet-based live streams, as well as increased money to the players through the purchase of stickers. Swedish team Fnatic bested the Ninjas in Pyjamas to win the DreamHack SteelSeries Counter-Strike: Global Offensive Championship in December 2013, the first Major tournament, with an entire tournament prize pool of $250,000.[41] Virtus.pro won over Ninjas in Pyjamas in the EMS One Katowice 2014 championship, the second Major.[34] Ninjas in Pyjamas won the ESL One Cologne tournament at Gamescom over Fnatic in 2014.[42] Team LDLC.com won Dreamhack Winter 2014 over Ninjas in Pyjamas.[43] On March 15, 2015, Fnatic won their second major at ESL Katowice 2015, beating Ninjas in Pyjamas once again.[44] Fnatic won their third major on August 23, 2015 at ESL One Cologne 2015 beating Team EnVyUs 2-0 in a best of 3 series.[45]
+
+Reception
+Reception
+Aggregate scores
+Aggregator	Score
+GameRankings	82.35% (PC)[49]
+79% (X360)[50]
+78.63% (PS3)[51]
+Metacritic	83/100 (PC)[46]
+79/100 (X360)[47]
+80/100 (PS3)[48]
+Review scores
+Publication	Score
+Destructoid	9.5/10 (PC)[58]
+Eurogamer	9/10 (PC)[56]
+G4	4/5 (PC)[55]
+GameSpot	8.5 (PC, PS3, X360)[59]
+GameSpy	4/5 stars (PC)[54]
+IGN	8/10 (PC)[52]
+OXM (UK)	8/10 (XBLA)[57]
+PC Gamer (US)	84/100 (PC)[53]
+Counter-Strike: Global Offensive received generally positive reviews from professional critics. Aggregate review website Metacritic assigned the PC version an overall score of 83 out of 100 based on 38 reviews from professional critics.[46]
+
+Evan Lahti from PC Gamer noted that the majority of new official maps in Global Offensive were only for Arms Race or Demolition game modes; while Classic maps were only given "smart adjustments" to minor details.[53] GameSpy's Mike Sharkey pointed out that the game provides very little in the way of new content; and that the Elo rating system seems ineffective, what "with so many new players of various skill levels logging on for the first time this week".[54] Destructoid gave the game a very positive review, awarding it 9.5/10, saying that it "delivers on the promise of a faithful, polished, and better looking Counter-Strike for anyone who wants it."[58] GameSpot said in their positive review that this game "is a solid update to a classic shooter".[59]
+
+References

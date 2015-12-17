@@ -1,0 +1,51 @@
+@import url(https://fonts.googleapis.com/css?family=Sigmar+One);
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Poiret+One);
+@import url(https://fonts.googleapis.com/css?family=Hanalei);
+@import url(https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz);
+@import url(https://fonts.googleapis.com/css?family=Roboto);
+@import url(https://fonts.googleapis.com/css?family=Montserrat);
+@import url(https://fonts.googleapis.com/css?family=Pacifico);
+@import url(https://fonts.googleapis.com/css?family=Lobster);
+body { 
+    background-image: url('pics/background_blue.png');
+    background-image: url('pics/background_blue.png');
+    background-attachment: fixed;
+	font-family: Pacifico;}
+.sigmarone{
+	font-family: Sigmar One;
+}
+.oswald{
+	font-family: Oswald;
+}
+.poiretone{
+	font-family: Poiret One;
+}
+.hanalei{
+	font-family: Hanalei;
+}
+.yanone{
+		font-family: Yanone Kaffeesatz
+}
+.roboto{
+	font-family: Roboto
+}
+.monserrat{
+	font-family: Monserrat;
+}
+.pacifico{
+	font-family: Pacifico;
+}
+.lobster{
+	font-family: lobster;
+}
+img{
+		box-shadow:10px 10px 5px grey;
+		border:2px solid black;
+
+}
+a:hover { 
+    background-color: #cccccc;
+}
+	
+	
